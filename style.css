@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+
+/* ############################## top-header-start */
+
+.logo {
+    width: 60px;
+}
+.top-header {
+    display: flex;
+    justify-content: space-around;
+
+    background-color: #1F2937;
+}
+
+.right-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+ul{
+    text-decoration: none;
+    
+}
+a:link {
+  list-style-type: none;
+  text-decoration: none; 
+  color: #E5E7EB;
+}
+a:visited {
+    list-style-type: none;
+  text-decoration: none; 
+  color: #E5E7EB;
+}
+/* ############################## top-header-end */
