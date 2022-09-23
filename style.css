@@ -209,7 +209,14 @@ a:visited {
 
 
 /* ############################## footer-start */
+.copy {
+    display: flex;
+    justify-content: center;
 
+    background-color: #1f2937;
+    color: #F9FAF8;
+    padding: 20px;
+}
 
 
 
