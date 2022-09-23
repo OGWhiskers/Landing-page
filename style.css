@@ -88,6 +88,42 @@ a:visited {
 /* ############################## bottom-header-end */
 
 /* ############################## information-start */
+#information {
+    padding-top: 70px;
+    margin: 0px 0px 60px;
+}
+.img-item-1, .img-item-2, .img-item-3, .img-item-4 {
+    width: 160px;
 
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+
+}
+
+.item-1, .item-2, .item-3, .item-4 {
+    display: flex;
+    flex-flow: column wrap;
+
+    width: 180px;
+}
+
+.head-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+} 
+.img-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    gap: 80px;
+
+}
 
 /* ############################## information-end */
