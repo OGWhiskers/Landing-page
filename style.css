@@ -8,20 +8,22 @@ body {
     padding: 10px 0px 80px;
 }
 .logo {
-    width: 60px;
+    width: 100px;
+}
+.logo-top {
+    display: flex;
+    align-self: flex-end;
 }
 .top-header {
     display: flex;
     justify-content: space-around;
-
-    /* background-color: #1F2937; */
 }
 
 .right-links {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 20px;
+    gap: 50px;
 }
 ul{
     text-decoration: none;
@@ -84,3 +86,8 @@ a:visited {
 }
 
 /* ############################## bottom-header-end */
+
+/* ############################## information-start */
+
+
+/* ############################## information-end */
