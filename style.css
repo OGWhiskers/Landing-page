@@ -127,3 +127,34 @@ a:visited {
 }
 
 /* ############################## information-end */
+
+/* ############################## quote-start */
+
+#quote-sec {
+    background-color: #E5E7EB;
+    padding: 100px;
+
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+
+    width: 950px;
+}
+.quote-author {
+    font-size: 18px;
+    font-weight: 900;
+    color: #1f2937;
+
+    margin-right: -590px;
+}
+
+
+
+
+/* ############################## quote-end */
